@@ -1,6 +1,6 @@
 # Hey, I'm Archit 👋
 
-Fullstack devloper obsessed with building fast, beautiful, 
+Fullstack developer obsessed with building fast, beautiful, 
 and interactive web experiences.
 
 ## 🔧 What I Build With
